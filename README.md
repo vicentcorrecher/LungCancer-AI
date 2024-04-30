@@ -1,10 +1,17 @@
 <body>
+<p align="center">
+  <img src="APP GRADIO/Foto.jpeg" style="width: 250px;">
+</p>
+
   <h1>Sistema de predicción de malignidad de cáncer de pulmón</h1>
 
-  <p>Este repositorio contiene el código y los recursos relacionados con un Sistema de predicción de malignidad de cáncer de pulmón. El sistema se ha diseñado como una herramienta predictiva para ayudar en la toma de decisiones y seguimiento de la enfermedad, utilizando imágenes médicas y técnicas de clasificación.</p>
+
+
+  <p>Este repositorio contiene el código y los recursos relacionados a un proyecto propio en el que se ha desarrollado un sistema de predicción de malignidad de cáncer de pulmón. 
+    El sistema se ha diseñado como una herramienta predictiva para ayudar en la toma de decisiones y seguimiento de la enfermedad, utilizando imágenes médicas y técnicas de clasificación.</p>
 
   <a href="https://drive.google.com/drive/folders/1-Tbos5aCdj8Qgy_Rz5d8T8tbtm-42TiF?usp=sharing">[Enlace al repositorio en Google Drive]</a>.
-  Desde ahí se puede acceder a todo el repositorio y los modelos guardaos para ejecutar directamente desde Google Colab.
+  Desde ahí se puede acceder a todo el repositorio y los modelos guardados para ejecutar directamente desde Google Colab.
 
   <h2>Datos</h2>
 
@@ -16,9 +23,9 @@
   
   <p>Se han entrenado varios modelos para abordar el problema de clasificación, incluyendo:</p>
   <ul>
-    <li>• Modelos basados en Convolutional Neural Networks (CNNs).</li>
-    <li>• Modelos basados en la UNet clásica.</li>
-    <li>• Modelos basados en la arquitectura Inception Net.</li>
+    <li> Modelos basados en Convolutional Neural Networks (CNNs).</li>
+    <li>  Modelos basados en la UNet clásica.</li>
+    <li>  Modelos basados en la arquitectura Inception Net.</li>
   </ul>
 
   <h2>Aplicación</h2>
